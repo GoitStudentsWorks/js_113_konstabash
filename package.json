@@ -1,11 +1,11 @@
 {
-  "name": "DragonScript",
+  "name": "js_113_konstabash",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-DragonScript/",
+    "build": "vite build --base=/js_113_konstabash/",
     "preview": "vite preview"
   },
   "devDependencies": {
